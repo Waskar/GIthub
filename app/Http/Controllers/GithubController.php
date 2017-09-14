@@ -13,7 +13,7 @@ class GithubController extends Controller
      */
     public function index()
     {
-        //
+        // construncion de la base de datos
     }
 
     /**
